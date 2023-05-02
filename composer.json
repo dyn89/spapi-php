@@ -1,11 +1,11 @@
 {
-  "name": "double-break/spapi-php",
+  "name": "dyn89/spapi-php",
   "description": "Amazon Selling Partner API Client",
   "type": "library",
   "authors": [
      {
-         "name": "Lyubo Slavilov",
-         "email": "lyubo.slavilov@gmail.com"
+         "name": "DongYanan",
+         "email": "345562949@qq.com"
      }
   ],
   "require": {
